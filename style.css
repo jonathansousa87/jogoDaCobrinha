@@ -1,10 +1,15 @@
 body {
   background-color: black;
+  height: 95vh;
   display: flex;
-}
-#snake{
-  display: flex;
-  margin: 0 auto;
   justify-content: center;
-  margin-top: 200px;
+  align-items: center;
+  color: brown;
+  flex-direction: column;
+}
+#snake {
+
+
+
+
 }
